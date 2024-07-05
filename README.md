@@ -17,8 +17,7 @@ I'm an 18-year-old aspiring programmer with a keen interest in Data Structures a
 <a href="https://www.instagram.com/dipanshuu447/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dipanshuu447/" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/dipanshuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dipanshuu" height="30" width="40" /></a> -->
 </div>
-<br>
-<!-- <div align= "center"> -->
-<i><b>Motto: "I don't care who is doing better than me, I am doing better than I was last year. It's me vs me!!!!"</b></i>
-<!-- </div> -->
-
+<div align="center">
+<hr / width="100px">
+  <h4><i>Motto: "I don't care who is doing better than me, I am doing better than I was last year. It's me vs me!!!!"</i></h4>
+</div>
