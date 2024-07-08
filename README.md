@@ -4,7 +4,7 @@ I'm an 18-year-old aspiring programmer with a keen interest in Data Structures a
 
 ### 👨‍💻 About Me :
 - 😄 Pronouns: `he/him`<br>
-- 🔭 Currently working on some really cool projects that I'm excited to share soon! <br>
+- 🔭 Currently working on some really cool projects that I'm excited to share soon! <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="20"/><br>
 - 🌱 I’m currently learning `DSA`, `Web Dev`, `C++`<br>
 - 💬 Ask me about self help books, `HTML`, `CSS`, `C`, `C++`<br>
 - 📫 How to reach me - dipanshusahu447@gmail.com<br>
