@@ -1,5 +1,5 @@
 <h1><img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="50"/> Hi there, I'm Dipanshu Sahu </h1>
-I'm an 18-year-old aspiring programmer with a keen interest in Data Structures and Algorithms (DSA). I'm passionate about exploring the vast world of programming, including web development and Android development. I'm always eager to learn new technologies and collaborate on exciting projects.
+I'm an 18-year-old aspiring programmer with a keen interest in Data Structures and Algorithms (DSA). I'm passionate about exploring the vast world of programming, including Web development and Android development. I'm always eager to learn new technologies and collaborate on exciting projects.
 
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> About Me :
@@ -12,9 +12,12 @@ I'm an 18-year-old aspiring programmer with a keen interest in Data Structures a
 
 ## Connect with me 
 <div>
-<a href="https://x.com/dipanshuu_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dipanshuu_sahu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dipanshu-sahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipanshu-sahu/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dipanshuu447/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dipanshuu447/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dipanshuu447/" target="_blank" rel="noopener noreferre"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dipanshuu447/" height="30" width="40" /></a>
+<a href="https://x.com/dipanshuu_sahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dipanshuu_sahu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipanshu-sahu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipanshu-sahu/" height="30" width="40" /></a>
+<a href="mailto:dipanshusahu447@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="dipanshusahu447@gmail.com" width="40" /></a>
+<!-- <a href="https://www.quora.com/profile/Dipanshuu" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=wPcChHypTdti&format=png" alt="https://www.quora.com/profile/Dipanshuu" width="40" /></a>
+ -->
 <!-- <a href="https://discord.gg/dipanshuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dipanshuu" height="30" width="40" /></a> -->
 </div>
 <div align="center">
