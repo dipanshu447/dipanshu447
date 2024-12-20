@@ -1,28 +1,49 @@
-<h1><img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="50"/> Hi there, I'm Dipanshu Sahu </h1>
-I'm an 18-year-old aspiring programmer with a keen interest in Data Structures and Algorithms (DSA). I'm passionate about exploring the vast world of programming, including Desktop Application development and Android development. I'm always eager to learn new technologies and collaborate on exciting projects.
+<h1>Hey there, <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" width="28" />  </h1>
+
+#### 18 | Student Developer | Always learning and coding my way forward 
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-dipanshu_sahu-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/dipanshu-sahu/)
+[![GitHub](https://img.shields.io/badge/dipanshusahu-black?style=flat-square&logo=github)](https://github.com/dipanshu447)
+[![Twitter](https://img.shields.io/badge/@dipanshuu_sahu-000000?style=flat-square&logo=x)](https://x.com/dipanshuu_sahu)
+[![Threads](https://img.shields.io/badge/@dipanshuu447-000000?style=flat-square&logo=threads)](https://www.threads.net/@dipanshuu447)
 
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> About Me :
-- 😄 Pronouns: `he/him`<br>
-- 🔭 Currently working on making small desktop application! <br>
-- 🌱 I’m currently learning `DSA`, `Web Dev`, `Java`<br>
-- 💬 Ask me about self help books, `HTML`, `CSS`,`Js`, `C`, `C++`<br>
-- 📫 How to reach me - dipanshusahu447@gmail.com<br>
-- ⚡ Fun fact: I love exploring self-help books 📚 and plotting my next move in Chess ♟!
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" width="35"/> a bit more about me in a code..</h3>
 
-## Connect with me 
-<div>
-<a href="https://www.instagram.com/dipanshuu447/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dipanshuu447/" height="30" width="40" /></a>
-<a href="https://x.com/dipanshuu_sahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dipanshuu_sahu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dipanshu-sahu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipanshu-sahu/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dev_dipanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aastha-bhatia" height="30" width="40" /></a>
-<a href="mailto:dipanshusahu447@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="dipanshusahu447@gmail.com" width="40" /></a>&nbsp; 
-<a href="https://www.chess.com/member/me_dipanshuu" target="_blank"><img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" height="31" width="23" /></a>
-<!-- <a href="https://www.quora.com/profile/Dipanshuu" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=wPcChHypTdti&format=png" alt="https://www.quora.com/profile/Dipanshuu" width="40" /></a>
- -->
-<!-- <a href="https://discord.gg/dipanshuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dipanshuu" height="30" width="40" /></a> -->
-</div>
-<div align="center">
-<hr / width="100px">
-  <h4><i>Motto: "I don't care who is doing better than me, I am doing better than I was last year. It's me vs me!!!!"</i></h4>
-</div>
+```c++
+class Dipanshuu {
+public:
+    void aboutMe() {
+        std::cout << "Pronouns: he/him\n";
+        std::cout << "Focus: Front-End Development, Algorithmic Problem-Solving\n";
+        std::cout << "Learning: JavaScript, Java, DSA\n";
+        std::cout << "Tools: HTML, CSS, Git, VS Code, MySQL, Figma\n";
+        std::cout << "Passions: Coding, Reading, Exploring New Technologies\n";
+        std::cout << "Challenge: Improving problem-solving skills on LeetCode and working on a better version of myself\n";
+        std::cout << "Motto: \"It's me vs me!\"\n";
+    }
+
+    void sayHi() {
+        std::cout << "Hi there! Thanks for checking out my profile. Feel free to explore my work and connect with me!\n";
+    }
+};
+```
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width=23 /> Skills & Tools 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/> </a> 
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" /></a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" /> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" /> </a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" /> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width = "40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="mysql" /> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" /> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" /> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" /> </a> 
+<a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" alt="codespace" width="40" /> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a>  
+
+## 📬 Contact Me
+You can reach me via email at [dipanshusahu447@email.com](mailto:dipanshusahu447@email.com).
+
+
