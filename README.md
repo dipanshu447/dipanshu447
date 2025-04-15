@@ -1,6 +1,6 @@
 <h1>Hey there, <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" width="28" />  </h1>
 
-#### 18 | Student Developer | Always learning and coding my way forward 
+#### 19 | Student Developer | Always learning and coding my way forward 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-dipanshu_sahu-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/dipanshu-sahu/)
 [![GitHub](https://img.shields.io/badge/dipanshu447-black?style=flat-square&logo=github)](https://github.com/dipanshu447)
@@ -15,14 +15,15 @@ class Dipanshuu {
 public:
     void aboutMe() {
         std::cout << "Pronouns: he/him\n";
-        std::cout << "Focus: Front-End Development, Algorithmic Problem-Solving\n";
-        std::cout << "Learning: JavaScript, Java, DSA\n";
-        std::cout << "Tools: HTML, CSS, Git, VS Code, MySQL, Figma\n";
+        std::cout << "Focus: Front-End Development, Algorithmic Problem-Solving, React Projects\n";
+        std::cout << "Learning: React.js (100 Days of Code), JavaScript, Java\n";
+        std::cout << "Tools: HTML, CSS, JavaScript, Git, VS Code, MySQL\n";
+        std::cout << "Projects: Weather App, Tic Tac Toe, Spotify Clone\n";
+        std::cout << "Challenges: 100 Days of Code with React\n";
         std::cout << "Passions: Coding, Reading, Exploring New Technologies\n";
-        std::cout << "Challenge: Improving problem-solving skills on LeetCode and working on a better version of myself\n";
+        std::cout << "Current Goals: improving React skills, mastering problem-solving on LeetCode\n";
         std::cout << "Motto: \"It's me vs me!\"\n";
     }
-
     void sayHi() {
         std::cout << "Hi there! Thanks for checking out my profile. Feel free to explore my work and connect with me!\n";
     }
