@@ -1,50 +1,47 @@
-<h1>Hey there, <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" width="28" />  </h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=5000&pause=0&color=F7F7F7&background=FFFFFF00&width=600&lines=hi%2C+there.;i’m+dipanshu.;just+building+things+i+once+feared.;getting+obsessed+one+commit+at+a+time." alt="Typing SVG" />
+</a>
 
-#### 19 | Student Developer | Always learning and coding my way forward 
+<div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu447/)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dipanshu447)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@dipanshuu447)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00A672?style=for-the-badge)](https://peerlist.io/dipanshu447)
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-dipanshu_sahu-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/dipanshu-sahu/)
-[![GitHub](https://img.shields.io/badge/dipanshu447-black?style=flat-square&logo=github)](https://github.com/dipanshu447)
-[![Twitter](https://img.shields.io/badge/@dipanshuu_sahu-000000?style=flat-square&logo=x)](https://x.com/dipanshuu_sahu)
-[![Threads](https://img.shields.io/badge/@dipanshuu447-000000?style=flat-square&logo=threads)](https://www.threads.net/@dipanshuu447)
+</div>
 
+### about me
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" width="35"/> a bit more about me in a code..</h3>
+**19 • frontend dev • explorer • builder**
 
-```c++
-class Dipanshuu {
-public:
-    void aboutMe() {
-        std::cout << "Pronouns: he/him\n";
-        std::cout << "Focus: Front-End Development, Algorithmic Problem-Solving, React Projects\n";
-        std::cout << "Learning: React.js (100 Days of Code), JavaScript, Java\n";
-        std::cout << "Tools: HTML, CSS, JavaScript, Git, VS Code, MySQL\n";
-        std::cout << "Projects: Weather App, Tic Tac Toe, Spotify Clone\n";
-        std::cout << "Challenges: 100 Days of Code with React\n";
-        std::cout << "Passions: Coding, Reading, Exploring New Technologies\n";
-        std::cout << "Current Goals: improving React skills, mastering problem-solving on LeetCode\n";
-        std::cout << "Motto: \"It's me vs me!\"\n";
-    }
-    void sayHi() {
-        std::cout << "Hi there! Thanks for checking out my profile. Feel free to explore my work and connect with me!\n";
-    }
-};
-```
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width=23 /> Skills & Tools 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/> </a> 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" /></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" /> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" /> </a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" /> </a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width = "40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
-<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="mysql" /> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" /> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" /> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" /> </a> 
-<a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" alt="codespace" width="40" /> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a>  
+i'm a passionate frontend developer exploring the MERN stack and beyond.  
+currently building things I once feared.  
+trying, failing, learning and getting obsessed in the process.  
 
-## 📬 Contact Me
-You can reach me via email at [dipanshusahu447@email.com](mailto:dipanshusahu447@email.com).
+i care about clean UI, good DX, and building tools that help people do more.
 
+### tech stack
 
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,nodejs,firebase,git" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,discordjs,c,cpp,java,npm,vite,github,postman,linux" alt="tech stack" />
+</div>
+
+### current obsessions
+
+- building build-discord-app -- a CLI to scaffold Discord bots in seconds
+- falling deep into React -- components, state, router, all of it
+- slowly sipping the MERN stack ☕, one tech at a time
+- playing with Firebase -- auth, hosting, and firestore
+- experimenting with Discord.js and bot interactions
+
+### my stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dipanshu447&show_icons=false&theme=holi" alt="dipanshu447" />
+
+### let's connect
+
+Want to talk about tech, open source, or just say hi?  [Mail me](mailto:dipanshusahu447@email.com)
+
+> *Obsession beats talent*
