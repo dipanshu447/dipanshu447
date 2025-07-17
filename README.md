@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=5000&pause=0&color=F7F7F7&background=FFFFFF00&width=600&lines=hi%2C+there.;i’m+dipanshu.;just+building+things+i+once+feared.;getting+obsessed+one+commit+at+a+time." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=5000&pause=0&color=F7F7F7&background=FFFFFF00&width=600&lines=hi%2C+there.;i’m+dipanshu.;just+building+things+i+once+feared.;getting+obsessed+one+commit+at+a+time." alt="Typing SVG" />
 
 <div>
   
