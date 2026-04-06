@@ -12,7 +12,7 @@ and how applications scale as they grow.
 ### tech
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,firebase,html,css,git,github,postman,figma,vscode,vercel," />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,firebase,html,css,git,github,vscode,vercel," />
 </div>
 
 ### selected work
