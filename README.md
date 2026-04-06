@@ -1,45 +1,43 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=5000&pause=0&color=F7F7F7&background=FFFFFF00&width=600&lines=hi%2C+there.;i’m+dipanshu.;just+building+things+i+once+feared.;getting+obsessed+one+commit+at+a+time." alt="Typing SVG" />
+### hey, i’m dipanshu
+
+full-stack developer • building minimal, fast, and scalable web applications
+
+i build full-stack web applications, focusing on minimal interfaces  
+and backend systems that make them reliable.
+
+lately, i’ve been getting more into backend development,
+learning how apis work, how data flows,  
+and how applications scale as they grow.
+
+### tech
 
 <div>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu447/)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dipanshu447)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@dipanshuu447)
-[![Peerlist](https://img.shields.io/badge/Peerlist-00A672?style=for-the-badge)](https://peerlist.io/dipanshu447)
-
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,firebase,html,css,git,github,postman,figma,vscode,vercel," />
 </div>
 
-### about me
+### selected work
 
-**19 • frontend dev • explorer • builder**
+- [**zaikacart**](https://zaika-cart.vercel.app/) - full-stack online food ordering app with auth, cart, and real-time updates.
+- [**build-discord-app**](https://www.npmjs.com/package/build-discord-app) - cli tool to scaffold and set up discord bots quickly.
+- [**focusflow**](https://focus-flow-taupe-three.vercel.app/) - productivity app for task management and focused sessions.
 
-i'm a passionate frontend developer exploring the MERN stack and beyond.  
-currently building things I once feared.  
-trying, failing, learning and getting obsessed in the process.  
+### side builds
 
-i care about clean UI, good DX, and building tools that help people do more.
+- [**css office art**](https://dipanshu447.github.io/css-office-art/) - pure css layout composition without javascript.
+- [**css halloween art**](https://dipanshu447.github.io/css-halloween-art/) - css-based animated artwork without javascript.
+- [**ghouleats**](https://ghoul-eats.vercel.app/) - multi-page restaurant ui with a themed design.
 
-### tech stack
+### current focus
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,nodejs,firebase,git" alt="tech stack" />
-  <img src="https://skillicons.dev/icons?i=vscode,discordjs,c,cpp,java,npm,vite,github,postman,linux" alt="tech stack" />
-</div>
+- improving backend skills and understanding api design  
+- building more robust full-stack applications
+- focusing on consistency in building and shipping  
 
-### current obsessions
+### connect with me
 
-- building build-discord-app -- a CLI to scaffold Discord bots in seconds
-- falling deep into React -- components, state, router, all of it
-- slowly sipping the MERN stack ☕, one tech at a time
-- playing with Firebase -- auth, hosting, and firestore
-- experimenting with Discord.js and bot interactions
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge)](https://www.itsdipanshu.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu447/)
+[![Peerlist](https://img.shields.io/badge/PEERLIST-00A672?style=for-the-badge)](https://peerlist.io/dipanshu447)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshusahu447@gmail.com)
 
-### my stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=dipanshu447&show_icons=false&theme=holi" alt="dipanshu447" />
-
-### let's connect
-
-Want to talk about tech, open source, or just say hi?  [Mail me](mailto:dipanshusahu447@email.com)
-
-> *Obsession beats talent*
+→ open to collaboration, interesting ideas, and real opportunities
