@@ -23,8 +23,7 @@ and how applications scale as they grow.
 
 ### side builds
 
-- [**css office art**](https://dipanshu447.github.io/css-office-art/) - pure css layout composition without javascript.
-- [**css halloween art**](https://dipanshu447.github.io/css-halloween-art/) - css-based animated artwork without javascript.
+- [**emotionally unstable coffee api**](https://github.com/dipanshu447/emotionally-unstable-coffee-api) - a playful rest api modeling a coffee machine with dynamic behavior driven by internal state and usage.
 - [**ghouleats**](https://ghoul-eats.vercel.app/) - multi-page restaurant ui with a themed design.
 
 ### current focus
