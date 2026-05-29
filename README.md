@@ -16,17 +16,6 @@ and writing more maintainable backend code.
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,postgres,prisma,firebase,html,css,git,github,vercel" />
 </div>
 
-### selected work
-
-* [**focusflow**](https://focus-flow-taupe-three.vercel.app/) - full-stack productivity platform with authentication, task management, focus analytics, and postgresql.
-* [**zaikacart**](https://zaika-cart.vercel.app/) - full-stack food ordering app with auth, cart management, and real-time database operations.
-* [**build-discord-app**](https://www.npmjs.com/package/build-discord-app) - cli tool to scaffold and set up discord bots quickly.
-
-### side builds
-
-* [**emotionally unstable coffee api**](https://github.com/dipanshu447/emotionally-unstable-coffee-api) - state-driven rest api simulating a coffee machine with dynamic responses and custom behavior.
-* [**ghouleats**](https://ghoul-eats.vercel.app/) - themed restaurant web application built with react and framer motion.
-
 ### current focus
 
 * backend architecture and api design
