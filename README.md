@@ -13,7 +13,7 @@ and writing more maintainable backend code.
 ### tech
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,postgres,prisma,firebase,html,css,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,postgres,prisma,firebase,html,css,git,github,vercel" />
 </div>
 
 ### selected work
